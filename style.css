@@ -389,6 +389,10 @@ footer>p {
         top: 1900px;
         left: 10px;
     }
+
+    .about--img-container {
+        margin: 0;
+    }
 }
 
 @media only screen and (max-width: 375px) {
@@ -396,5 +400,13 @@ footer>p {
         width: 20rem;
         height: 20rem;
         top: 2000px;
+    }
+
+    .about--img-container {
+        margin: 0;
+    }
+
+    .feature--img--container {
+        margin-inline: 0;
     }
 }
