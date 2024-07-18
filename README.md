@@ -1,2 +1,2 @@
 # Pulse-Pioneer-Landing-Page
-A landing page for my fitness Pulse Pioneer
+A landing page for my fitness app Pulse Pioneer
